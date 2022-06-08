@@ -1,7 +1,7 @@
 addReviewers: true
 addAssignees: author
 reviewers:
-  - SeniorSociety/backend
+  - backend
 numberOfReviewers: 0 # 0 means all reviewers
 skipKeywords:
   - wip
